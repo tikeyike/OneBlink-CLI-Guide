@@ -1,5 +1,12 @@
 # Command Line Interface Tools (CLI) for OneBlink
 
+- [Command Line Interface Tools (CLI) for OneBlink](#command-line-interface-tools-cli-for-oneblink)
+  - [Getting Started](#getting-started)
+    - [Node.js](#nodejs)
+    - [Node Package Manager (npm)](#node-package-manager-npm)
+  - [Installation of CLI Tools](#installation-of-cli-tools)
+  - [Logging in using Identity CLI](#logging-in-using-identity-cli)
+
 ## Getting Started
 
 Before using the Command Line Interface (CLI) Tools, you will first need to download and install `Node.js` and `npm` on your local machine.
