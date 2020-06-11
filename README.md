@@ -109,7 +109,7 @@ You will be asked to type in a name for your API subdomain — you can call it w
 
 ## Project Structure
 
-For this guide, I’ve created a folder with 3 option sets to use as an example - You can download or clone it [here](https://github.com/tikeyike/option-sets).
+For this guide, I’ve created a folder with 3 option sets to use as an example.
 
 <center>
 
@@ -159,12 +159,6 @@ Now type in:
 oneblink api scope {YOUR API URL}
 ```
 
-OR
-
-```
-civicplus api scope {YOUR API URL}
-```
-
 <center>
 
 ![](images/api-url.png)
@@ -203,12 +197,6 @@ Now you can go back to the terminal and type in:
 
 ```
 oneblink api deploy
-```
-
-OR
-
-```
-civicplus api deploy
 ```
 
 Then press `y`
