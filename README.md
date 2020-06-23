@@ -69,19 +69,11 @@ oneblink login
 
 A browser window will open and you'll be able to select your identity provider. If you have registered using a Gmail/Gsuite account, you can click the `Continue with Google` button. If not, just login with your OneBlink username and password.
 
-<center>
-
-![](https://raw.githubusercontent.com/tikeyike/oneblink-cli-tutorials/master/assets/images/login-popup.png)
-
-</center>
+![](assets/images/login-popup.png)
 
 Once you log in, you will be provided with a code to copy and paste into your terminal.
 
-<center>
-
-![](https://raw.githubusercontent.com/tikeyike/oneblink-cli-tutorials/master/assets/images/copy-code-login.png)
-
-</center>
+![](assets/images/copy-code-login.png)
 
 This will authenticate you, and you will now be logged in.
 
@@ -89,21 +81,13 @@ This will authenticate you, and you will now be logged in.
 
 To host an API in the OneBlink Console, navigate to the `API Hosting` section, found on the left side menu:
 
-<center>
-
-![](https://raw.githubusercontent.com/tikeyike/oneblink-cli-tutorials/master/assets/images/api-hosting-menu.png)
-
-</center>
+![](assets/images/api-hosting-menu.png)
 
 To configure a new API, click the orange button on the bottom right.
 
 You will be asked to type in a name for your API subdomain — you can call it whatever you want.
 
-<center>
-
-![](https://raw.githubusercontent.com/tikeyike/oneblink-cli-tutorials/master/assets/images/api-modal.png)
-
-</center>
+![](assets/images/api-modal.png)
 
 **Note: You can ignore all the other fields - you just need a name for your API.**
 
@@ -111,19 +95,11 @@ You will be asked to type in a name for your API subdomain — you can call it w
 
 For this guide, I’ve created a folder with 3 option sets to use as an example.
 
-<center>
-
-![](https://raw.githubusercontent.com/tikeyike/oneblink-cli-tutorials/master/assets/images/github-download.png)
-
-</center>
+![](assets/images/github-download.png)
 
 Once you have cloned/downloaded and exacted the file, now you should have a folder called 📁 `option-sets` with 3 sub-folders, and in each folder there is an index.js file.
 
-<center>
-
-![](https://raw.githubusercontent.com/tikeyike/oneblink-cli-tutorials/master/assets/images/folder-structure.png)
-
-</center>
+![](assets/images/folder-structure.png)
 
 **Note: the folder structure inside the 📁 `option-sets` folder has a specific structure/pattern.**
 
@@ -159,11 +135,7 @@ Now type in:
 oneblink api scope {YOUR API URL}
 ```
 
-<center>
-
-![](https://raw.githubusercontent.com/tikeyike/oneblink-cli-tutorials/master/assets/images/api-url.png)
-
-</center>
+![](assets/images/api-url.png)
 
 Note: You can find this API URL in the API Hosting section where you configured your new API previously. You can just copy and paste this URL into the terminal.
 
@@ -227,39 +199,23 @@ Once you have deployed your project, you now need to configure your option sets.
 
 You can do this by going to the `Option Sets` section on the left menu and configuring a new option set by clicking the button on the bottom right.
 
-<center>
-
-![](https://raw.githubusercontent.com/tikeyike/oneblink-cli-tutorials/master/assets/images/options-sets-menu.png)
-
-</center>
+![](assets/images/options-sets-menu.png)
 
 Since you are using a OneBlink hosted API, you need to select that option give it a name (which you can go back and edit at a later time).
 
-<center>
-
-![](https://raw.githubusercontent.com/tikeyike/oneblink-cli-tutorials/master/assets/images/option-sets-config.png)
-
-</center>
+![](assets/images/option-sets-config.png)
 
 Now you have to select which API you want to use (in this case, the one you just deployed earlier on).
 
 Once you select the API you want, now you have to configure it for the environments that you would like these option sets to appear in.
 
-<center>
-
-![](https://raw.githubusercontent.com/tikeyike/oneblink-cli-tutorials/master/assets/images/option-sets-config2.png)
-
-</center>
+![](assets/images/option-sets-config2.png)
 
 **Note: This is not the same as deploying projects to different API environments.**
 
 Once you configure the option sets with the environments — you can now test to see if you options work by clicking the send button on the right:
 
-<center>
-
-![](https://raw.githubusercontent.com/tikeyike/oneblink-cli-tutorials/master/assets/images/option-sets-config3.png)
-
-</center>
+![](assets/images/option-sets-config3.png)
 
 **Repeat this step if you would like to set up multiple option sets e.g. day names, month names, country names etc.**
 
@@ -267,11 +223,7 @@ Once you configure the option sets with the environments — you can now test to
 
 Now that you have deploy your option sets, you can now go into the form builder and choose either a radio button, checkbox, select or autocomplete.
 
-<center>
-
-![](https://raw.githubusercontent.com/tikeyike/oneblink-cli-tutorials/master/assets/images/select-element-options.png)
-
-</center>
+![](assets/images/select-element-options.png)
 
 Click on `USE PREDEFINED` and use the dropdown below to select the option set you have just created.
 
@@ -285,19 +237,11 @@ If you would like to quickly format a list for your option sets - one way you ca
 
 Lets say you have a table like this:
 
-<center>
-
-![](https://raw.githubusercontent.com/tikeyike/oneblink-cli-tutorials/master/assets/images/excel-example.png)
-
-</center>
+![](assets/images/excel-example.png)
 
 Paste the formula into B1 and press enter. Now hover over the bottom right of the cell and drag down.
 
-<center>
-
-![](https://raw.githubusercontent.com/tikeyike/oneblink-cli-tutorials/master/assets/images/excel-demo.gif)
-
-</center>
+![](assets/images/excel-demo.gif)
 
 ## Finishing Notes
 
