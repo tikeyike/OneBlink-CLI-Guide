@@ -71,7 +71,7 @@ A browser window will open and you'll be able to select your identity provider. 
 
 <center>
 
-![](images/login-popup.png)
+![](assets/images/login-popup.png)
 
 </center>
 
@@ -79,7 +79,7 @@ Once you log in, you will be provided with a code to copy and paste into your te
 
 <center>
 
-![](images/copy-code-login.png)
+![](assets/images/copy-code-login.png)
 
 </center>
 
@@ -91,7 +91,7 @@ To host an API in the OneBlink Console, navigate to the `API Hosting` section, f
 
 <center>
 
-![](images/api-hosting-menu.png)
+![](assets/images/api-hosting-menu.png)
 
 </center>
 
@@ -101,7 +101,7 @@ You will be asked to type in a name for your API subdomain — you can call it w
 
 <center>
 
-![](images/api-modal.png)
+![](assets/images/api-modal.png)
 
 </center>
 
@@ -113,7 +113,7 @@ For this guide, I’ve created a folder with 3 option sets to use as an example.
 
 <center>
 
-![](images/github-download.png)
+![](assets/images/github-download.png)
 
 </center>
 
@@ -121,7 +121,7 @@ Once you have cloned/downloaded and exacted the file, now you should have a fold
 
 <center>
 
-![](images/folder-structure.png)
+![](assets/images/folder-structure.png)
 
 </center>
 
@@ -161,7 +161,7 @@ oneblink api scope {YOUR API URL}
 
 <center>
 
-![](images/api-url.png)
+![](assets/images/api-url.png)
 
 </center>
 
@@ -229,7 +229,7 @@ You can do this by going to the `Option Sets` section on the left menu and confi
 
 <center>
 
-![](images/options-sets-menu.png)
+![](assets/images/options-sets-menu.png)
 
 </center>
 
@@ -237,7 +237,7 @@ Since you are using a OneBlink hosted API, you need to select that option give i
 
 <center>
 
-![](images/option-sets-config.png)
+![](assets/images/option-sets-config.png)
 
 </center>
 
@@ -247,7 +247,7 @@ Once you select the API you want, now you have to configure it for the environme
 
 <center>
 
-![](images/option-sets-config2.png)
+![](assets/images/option-sets-config2.png)
 
 </center>
 
@@ -257,7 +257,7 @@ Once you configure the option sets with the environments — you can now test to
 
 <center>
 
-![](images/option-sets-config3.png)
+![](assets/images/option-sets-config3.png)
 
 </center>
 
@@ -269,7 +269,7 @@ Now that you have deploy your option sets, you can now go into the form builder 
 
 <center>
 
-![](images/select-element-options.png)
+![](assets/images/select-element-options.png)
 
 </center>
 
@@ -287,7 +287,7 @@ Lets say you have a table like this:
 
 <center>
 
-![](images/excel-example.png)
+![](assets/images/excel-example.png)
 
 </center>
 
@@ -295,7 +295,7 @@ Paste the formula into B1 and press enter. Now hover over the bottom right of th
 
 <center>
 
-![](images/excel-demo.gif)
+![](assets/images/excel-demo.gif)
 
 </center>
 
