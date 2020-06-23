@@ -1,0 +1,14 @@
+ ---
+ ---
+
+@import "{{ site.theme }}";
+
+@import url('https://fonts.googleapis.com/css2?family=Gaegu&display=swap');
+
+* {
+  font-family: 'Gaegu', cursive;
+}
+
+h3 {
+  color: hotpink;
+}
